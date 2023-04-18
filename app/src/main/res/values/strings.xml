@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mi Correo</string>
+    <string name="Nom">Su nombre es:</string>
+    <string name="lista">Lista</string>
+    <string name="ciudad">Bogotá</string>
+    <string name="City">Ciudad:</string>
+    <string name="activo">Activo</string>
+    <string name="Mail">Correo</string>
+    <string name="Correo">Su correo es:</string>
+</resources>
